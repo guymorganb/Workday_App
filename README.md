@@ -9,7 +9,7 @@
 
 - I was able to expand my knowleged of JavaScript after having been coding for only 5 months, Ive been learning how it can be applied to the working needs of a user. I was also able to understand the level of detail that goes into even something this simple.
 
-![step 1](https://github.com/guymorganb/Coding_Quiz/blob/main/assets/screenshot.png?raw=true)
+![step 1](https://github.com/guymorganb/Workday_App/blob/main/Assets/Screenshot.png?raw=true)
 
 ## Table of Contents (N/A)
 - [Installation](#installation)
@@ -19,37 +19,32 @@
 
 ## Installation
 
-This webpage can be navigated to and acessed with a browser. It does not require installation.
+This webpage can be navigated to and acessed with a browser or mobile device. It does not require installation.
 
 ## Usage
 
-- This page should be used for learning and demonstration purposes.
+- This page can be used for learning and demonstration purposes, and for managing tasks. 
 
 - To engage this document: 
 
-1) First the user must click on either, the Start button to start the Quiz, or the View High Scores option at the top, to insect scores stored in their local storage.
+1) First the user must click on a text feild. 
 
-2) Please note: Your local storage will be accessed*
+2) The desired input is typed into the feild.
 
-3) If View High Scores is selected, the stored information in local browser storage will be populated to the screen. Any quiz scores that have been stored will be filtered and paired up accordingly.
+3) Once the input is typed in the save disk should be selected to stored the input into local storage.
 
-4) If the Start button is selected, the Quiz will begin, there are 6 questions in this quiz, and the user will socre points for each correct answer, and be penalized time for each wrong answer.
+4) To remove data. just delete it and save the updates.
 
-5) If time expires the Quiz will redirect to the final page
+5) To add new info, just type it in and click save.
 
-6) Upon completing the Quiz, the user will be prompted to enter their initials, which will be stored in local storage.
+6) Data is dynamically populated to show in the proper feilds.
 
-7) When viewing high scores, the user can clear the scores, which will empty their local storage, thus removing the saved scores.
+7) The current day is shown at the top of the page.
 
-8) At this point the Quiz is over, and the "go back" button can be used to start the quiz over.
-
-9) Although I did not see this issue listed as part of the assignment criteria, Its worth noting, that if the user is in the middle of the quiz, and decides to View High Scores, it will trigger duplice elements being created, but the user will still be able to enter their score if they let the time expire. If any occurance like this occurs, clicking the "go back" button will reset the quiz.
+- Please follow this link to access the repository https://github.com/guymorganb/Workday_App/tree/main
 
 
-- Please follow this link to access the repository https://github.com/guymorganb/Coding_Quiz
-
-
-- Please follow this link https://guymorganb.github.io/Coding_Quiz/ to access the deployed page
+- Please follow this link https://guymorganb.github.io/Workday_App/ to access the deployed page
     
 
 ## Credits
@@ -82,12 +77,12 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/license/guymorganb/Coding_Quiz)
+![badmath](https://img.shields.io/github/license/guymorganb/Workday_App)
 
 
 ## Features
 
-This project does not have notable features outside of its usefulness as a learning opportunity. However it may be used to help someone study for material they might need to know.
+This project does not have notable features outside of its usefulness as a learning opportunity and is function of time management.
 
 ## How to Contribute
 
